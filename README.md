@@ -30,7 +30,7 @@ Given a raw support ticket, the agent:
 - Python
 - [LangGraph](https://github.com/langchain-ai/langgraph) — graph orchestration
 - [LangChain](https://github.com/langchain-ai/langchain) — LLM integration
-- Claude (`langchain-anthropic`) as the underlying LLM
+- GEMINI (`langchain-google-genai`) as the underlying LLM
 - [`uv`](https://github.com/astral-sh/uv) for dependency management
 ## Project structure
  
