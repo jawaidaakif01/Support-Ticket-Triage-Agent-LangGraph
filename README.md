@@ -48,8 +48,8 @@ Given a raw support ticket, the agent:
  
 1. Clone the repo
 ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone https://github.com/jawaidaakif01/Support-Ticket-Triage-Agent-LangGraph.git
+   cd Support-Ticket-Triage-Agent-LangGraph
 ```
  
 2. Install dependencies with `uv`
