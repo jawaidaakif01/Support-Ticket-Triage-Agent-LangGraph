@@ -4,4 +4,15 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "idna>=3.20",
+    "langchain>=1.4.2",
+    "langchain-core>=1.6.5",
+    "langchain-google-genai>=4.4.0",
+    "langgraph>=1.2.12",
+    "pydantic>=2.13.5",
+    "pydantic-core>=2.46.5",
+    "pygraphviz>=2.0.2",
+    "python-dotenv>=1.2.3",
+    "urllib3>=2.8.0",
+]
